@@ -13,4 +13,4 @@
 Вольнодумный художник прошлого века
 
 ## Фото
-![my.photo] (https://disk.yandex.ru/d/l-D-bTThhb6uOQ)
+![alt text](photo-1.jpg)
